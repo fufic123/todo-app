@@ -59,7 +59,7 @@ python3 manage.py runserver
 
 <td width="90%">
 <br>
-<img src="https://github.com/fufic123/django-todo/blob/main/picture/Django%20To%20Do%20List%20App.jpg">  
+<img src="https://github.com/fufic123/projects-preview/blob/main/todo-app/Django%20To%20Do%20List%20App.jpg">  
 </td>
 </table>
 
