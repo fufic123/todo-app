@@ -13,7 +13,7 @@ git clone https://github.com/fufic123/todo-app
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd app
+cd todo-app
 
 ```
 
@@ -30,12 +30,6 @@ python3 -m venv venv
 --> Activate the virtual environment :
 ```bash
 source venv/bin/activate
-
-```
-
---> Move back into the directory where we have the main 'manage.py' file : 
-```bash
-cd ../
 
 ```
 
