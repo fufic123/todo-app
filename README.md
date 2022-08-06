@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ToDo app using django
