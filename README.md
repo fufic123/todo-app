@@ -59,9 +59,6 @@ python3 manage.py runserver
 
 <td width="90%">
 <br>
-<p align="center">
-  App Preview
-</p>
 <img src="https://github.com/fufic123/django-todo/blob/main/picture/Django%20To%20Do%20List%20App.jpg">  
 </td>
 </table>
